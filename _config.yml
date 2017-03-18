@@ -1,3 +1,5 @@
+layout_spectrum: 0.035512338878568445
+typography_spectrum: 0.8958438726793053
 color:
   brandColors:
     - '#9D9D9B'
@@ -5,10 +7,12 @@ color:
     - '#72716F'
     - '#484744'
     - '#EFEAE3'
-  brandStrength: 0.7943522960413247
-  lightness: 0.04935059463605285
-  saturation: 0.9435732113197446
-  rhythmicContrast: 0.6347328689880669
+  brandStrength: 0.024316720138718884
+  lightness: 0.04415985728152982
+  saturation: 0.9425129224989784
+  rhythmicContrast: 0.3680999556818221
+coverPrefs:
+  filter: false
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +21,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: hantverksportalen
-layout_spectrum: 0.8061175604816526
-typography_spectrum: 0.22666380065493286
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
