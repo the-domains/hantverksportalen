@@ -1,18 +1,18 @@
 ---
-inFeed: true
+publisher: {}
+datePublished: '2017-03-18T21:02:56.420Z'
+dateModified: '2017-03-18T20:34:38.188Z'
 description: >-
   Detta är mitt första byggprojekt – en fjällstuga i Ramundberget. Av den
-  anledning kommer den alltid vara nära mitt hjärta. Stugan är nu såld, men jag
+  anledning kommer den alltid ligga nära mitt hjärta. Stugan är nu såld, men jag
   bygger gärna en ny till dig! För pengarna köpte jag en båt till min fru. I HMS
-  Magda seglar vi varje sommar nu. Jag har fjällstugan att tacka för det. 
-dateModified: '2017-03-18T18:52:58.243Z'
-datePublished: '2017-03-18T18:52:59.001Z'
-title: Ett hem i fjällvärlden
-author: []
-publisher: {}
+  Magda seglar vi varje sommar. Jag har fjällstugan att tacka för det.
 via: {}
 sourcePath: _posts/2017-03-18-ett-hem-i-fjallvarlden.md
+title: Ett hem i fjällvärlden
 hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2017-03-18T18:31:53.876Z'
 url: ett-hem-i-fjallvarlden/index.html
@@ -21,7 +21,8 @@ _type: Article
 ---
 # Ett hem i fjällvärlden
 
-Detta är mitt första byggprojekt -- en fjällstuga i Ramundberget. Av den anledning kommer den alltid vara nära mitt hjärta. Stugan är nu såld, men jag bygger gärna en ny till dig! För pengarna köpte jag en båt till min fru. I HMS Magda seglar vi varje sommar nu. Jag har fjällstugan att tacka för det. ![Liggande råspontad vägg skapar karaktär.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd35259d-c95e-41eb-aa18-e9442f34fd0d.jpg)
+Detta är mitt första byggprojekt -- en fjällstuga i Ramundberget. Av den anledning kommer den alltid ligga nära mitt hjärta. Stugan är nu såld, men jag bygger gärna en ny till dig! För pengarna köpte jag en båt till min fru. I HMS Magda seglar vi varje sommar. Jag har fjällstugan att tacka för det.
+![Liggande råspontad vägg skapar karaktär.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd35259d-c95e-41eb-aa18-e9442f34fd0d.jpg)
 ![Ett rum med utsikt minsann.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc36ef0f-135f-423d-b2ca-aa0e4fd588a4.jpg)
 ![Alla rum är lättåtkomliga. En dörr i vinkel ger rymd.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a315fc0-87a0-4e5d-860b-52fc0774dad0.jpg)
 ![Det är bara att bestämma sig och sätta igång.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3b03bc4-4c64-41b7-b194-1dc1e7aab92f.jpg)
