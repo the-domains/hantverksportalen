@@ -3,25 +3,26 @@ inFeed: true
 description: >-
   Beställaren hade en gudomlig vy över Öviksfjärden men inget sätt att angöra en
   båt på ett säkert sätt. Vi drev ner enorma pålar i vattnet och skapade en
-  stenkista som hette duga. Sedan var det bara att spika brädor på.
-dateModified: '2017-03-18T21:02:31.777Z'
-datePublished: '2017-03-18T21:02:32.560Z'
+  stenkista som hette duga. Sedan var det bara att spika brädor på.  Hörde att
+  på hennes bröllopsfest, dansade ett 40-tal gäster på bryggan enligt gammal
+  tradition. Då blir man lite stolt som snickare.
+dateModified: '2017-03-18T21:16:55.270Z'
+datePublished: '2017-03-18T21:16:55.812Z'
 title: Brygga på Höga kusten
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-18-brygga-pa-hoga-kusten.md
 starred: false
 datePublishedOriginal: '2017-03-18T21:02:32.560Z'
-sourcePath: _posts/2017-03-18-brygga-pa-hoga-kusten.md
 url: brygga-pa-hoga-kusten/index.html
 _type: Article
 
 ---
 # Brygga på Höga kusten
 
-Beställaren hade en gudomlig vy över Öviksfjärden men inget sätt att angöra en båt på ett säkert sätt. Vi drev ner enorma pålar i vattnet och skapade en stenkista som hette duga. Sedan var det bara att spika brädor på.
-
+Beställaren hade en gudomlig vy över Öviksfjärden men inget sätt att angöra en båt på ett säkert sätt. Vi drev ner enorma pålar i vattnet och skapade en stenkista som hette duga. Sedan var det bara att spika brädor på.   
 Hörde att på hennes bröllopsfest, dansade ett 40-tal gäster på bryggan enligt gammal tradition. Då blir man lite stolt som snickare.
 ![Ingen mening att slösa den gamla brygga.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be897d1b-287b-4505-987f-fdfa68a93140.jpg)
 ![Här rätar vi upp pålarna med en enkel linbräda.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c050dd67-2d14-486b-8878-a1eb7827ea37.jpg)
