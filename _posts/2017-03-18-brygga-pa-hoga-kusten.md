@@ -6,8 +6,8 @@ description: >-
   stenkista som hette duga. Sedan var det bara att spika brädor på. Hörde att på
   hennes bröllopsfest, dansade ett 40-tal gäster på bryggan enligt gammal
   tradition. Då blir man lite stolt som snickare.
-dateModified: '2017-03-18T21:48:09.188Z'
-datePublished: '2017-03-18T21:48:09.441Z'
+dateModified: '2017-03-18T21:58:36.194Z'
+datePublished: '2017-03-18T21:58:36.362Z'
 title: Brygga på Höga kusten
 author: []
 publisher: {}
