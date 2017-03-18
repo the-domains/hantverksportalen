@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-18T22:13:22.911Z'
-datePublished: '2017-03-18T22:13:23.496Z'
+dateModified: '2017-03-18T22:23:18.033Z'
+datePublished: '2017-03-18T22:23:18.293Z'
 title: “Full insikt i processen”
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-18-full-insikt-i-processen.md
 starred: false
 datePublishedOriginal: '2017-03-18T22:13:23.496Z'
-sourcePath: _posts/2017-03-18-full-insikt-i-processen.md
 _type: Blurb
 
 ---
