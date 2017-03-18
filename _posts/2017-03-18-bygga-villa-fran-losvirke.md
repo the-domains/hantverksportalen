@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ett sekelskifteshus förtjänar varsam renovering. Med ett duktigt gäng på tre
   man, gjorde vi en fullständig yttre renovering och lade om originalpanelen.
-dateModified: '2017-03-18T21:48:09.188Z'
-datePublished: '2017-03-18T21:48:09.363Z'
+dateModified: '2017-03-18T22:05:18.542Z'
+datePublished: '2017-03-18T22:05:19.033Z'
 title: Husrenovering
 author: []
 publisher: {}
@@ -26,6 +26,8 @@ Ett sekelskifteshus förtjänar varsam renovering. Med ett duktigt gäng på tre
 
 Många gick förbi detta hus medan vi byggde det. De frågade, "När blir den färdig?" varje gång. Jag trodde att de tyckte att det tog lång tid. När vi var klara, utropade dem, "Det gick fort!". Det visar sig att man aldrig vet vad folk egentligen tänker.
 ![En välkomnande farstu med snickarglädje. Gjord av en glad snickare!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2417fde3-ed2e-4430-904e-400513b50220.jpg)
+
+> Vi anlitade hantverksportalen efter att vi jämfört flera offerter för att renovera alla rum utom badrummen i en 5:a. Hantverksportalen erbjöd oss ett bra pris och utförde ett mycket bra jobb. Vi kände att de kommunicerade med oss under hela renoveringen. Vi fick bilder på hur renoveringen gick och det kändes tryggt och professionellt. Vi fick problem med golvet i hallen efter renoveringen men Hantverksportalen såg till att lösa det utan kostnad. Vi är nöjda med resultatet och vi kan rekommendera Hantverksportalen.
 
 ## Inomhus
 
