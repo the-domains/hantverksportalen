@@ -8,8 +8,8 @@ description: >-
   kändes tryggt och professionellt. Vi fick problem med golvet i hallen efter
   renoveringen men Hantverksportalen såg till att lösa det utan kostnad. Vi är
   nöjda med resultatet och vi kan rekommendera Hantverksportalen.
-dateModified: '2017-03-18T22:04:48.298Z'
-datePublished: '2017-03-18T22:04:48.874Z'
+dateModified: '2017-03-18T22:21:36.976Z'
+datePublished: '2017-03-18T22:21:37.492Z'
 title: 5-rumslägenhet i Uppsala
 author: []
 publisher: {}
@@ -23,3 +23,5 @@ _type: Blurb
 # **5-rumslägenhet i Uppsala**
 
 > Vi anlitade hantverksportalen efter att vi jämfört flera offerter för att renovera alla rum utom badrummen i en 5:a. Hantverksportalen erbjöd oss ett bra pris och utförde ett mycket bra jobb. Vi kände att de kommunicerade med oss under hela renoveringen. Vi fick bilder på hur renoveringen gick och det kändes tryggt och professionellt. Vi fick problem med golvet i hallen efter renoveringen men Hantverksportalen såg till att lösa det utan kostnad. Vi är nöjda med resultatet och vi kan rekommendera Hantverksportalen.
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8c2de6a-adf0-4921-b4d0-4b8945e085dd.jpg)
