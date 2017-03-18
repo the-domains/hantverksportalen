@@ -5,8 +5,8 @@ description: >-
   anledning kommer den alltid vara nära mitt hjärta. Stugan är nu såld, men jag
   bygger gärna en ny till dig! För pengarna köpte jag en båt till min fru. I HMS
   Magda seglar vi varje sommar nu. Jag har fjällstugan att tacka för det.
-dateModified: '2017-03-18T21:16:16.191Z'
-datePublished: '2017-03-18T21:16:18.092Z'
+dateModified: '2017-03-18T21:48:09.188Z'
+datePublished: '2017-03-18T21:48:09.402Z'
 title: Ett hem i fjällvärlden
 author: []
 publisher: {}
