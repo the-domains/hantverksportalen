@@ -3,11 +3,11 @@ inFeed: true
 description: >-
   Beställaren hade en gudomlig vy över Öviksfjärden men inget sätt att angöra en
   båt på ett säkert sätt. Vi drev ner enorma pålar i vattnet och skapade en
-  stenkista som hette duga. Sedan var det bara att spika brädor på.  Hörde att
-  på hennes bröllopsfest, dansade ett 40-tal gäster på bryggan enligt gammal
+  stenkista som hette duga. Sedan var det bara att spika brädor på. Hörde att på
+  hennes bröllopsfest, dansade ett 40-tal gäster på bryggan enligt gammal
   tradition. Då blir man lite stolt som snickare.
-dateModified: '2017-03-18T21:16:55.270Z'
-datePublished: '2017-03-18T21:16:55.812Z'
+dateModified: '2017-03-18T21:48:09.188Z'
+datePublished: '2017-03-18T21:48:09.441Z'
 title: Brygga på Höga kusten
 author: []
 publisher: {}
