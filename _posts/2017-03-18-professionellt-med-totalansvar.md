@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-18T22:30:10.352Z'
-datePublished: '2017-03-18T22:30:10.841Z'
+dateModified: '2017-03-18T22:30:31.576Z'
+datePublished: '2017-03-18T22:30:31.732Z'
 title: “Professionellt med totalansvar”
 author: []
 publisher: {}
