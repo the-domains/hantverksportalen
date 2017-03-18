@@ -4,8 +4,8 @@ description: >-
   Sedan 1995 har Hantverksportalen AB utfört arbeten åt nöjda kunder i Uppsala
   och Stockholm. Vi samordnar, utför och ger byggledning för både små och stora
   projekt.
-dateModified: '2017-03-18T17:52:37.946Z'
-datePublished: '2017-03-18T17:52:38.530Z'
+dateModified: '2017-03-18T18:22:20.545Z'
+datePublished: '2017-03-18T18:22:21.245Z'
 title: Hantverk att njuta av
 author: []
 publisher: {}
