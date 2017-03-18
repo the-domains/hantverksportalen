@@ -4,8 +4,8 @@ description: >-
   Beställaren ville bevara detaljerna från ett 50-tals kök i original, men
   förbättra det med en modern arbetslösning. Vi på Hantverksportalen har mycket
   respekt för god kvalitet och det gedigna arbetet av de som har gått före oss.
-dateModified: '2017-03-18T22:24:35.852Z'
-datePublished: '2017-03-18T22:24:36.613Z'
+dateModified: '2017-03-18T22:24:46.898Z'
+datePublished: '2017-03-18T22:24:47.441Z'
 title: Känsla av 50-talet
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 # Känsla av 50-talet
 
 Beställaren ville bevara detaljerna från ett 50-tals kök i original, men förbättra det med en modern arbetslösning. Vi på Hantverksportalen har mycket respekt för god kvalitet och det gedigna arbetet av de som har gått före oss.
-![Köket är litet men extremt praktiskt](https://the-grid-user-content.s3-us-west-2.amazonaws.com/820c1b71-548b-417f-bfbb-6ce6326309cf.jpg)
+![Köket är litet men extremt praktiskt.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/820c1b71-548b-417f-bfbb-6ce6326309cf.jpg)
 ![Gott om plats för en 50-tals servis.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaef0c21-c37e-4fc9-9a48-973a3ab7ae61.jpg)
 ![Vi älskar använda handverktyg. De ger den rätta finishen!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a20bf54b-600d-4814-9d97-6c338917be84.jpg)
 ![Fina originala skålhandtag, upputsade som ny.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c71a412-e67a-4a59-bbb6-30a312264c04.jpg)
