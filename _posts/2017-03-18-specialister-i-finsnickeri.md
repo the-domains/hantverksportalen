@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'Detaljerna som elementskydd, skåp, och luckor omvandlar ett rum till ett hem. '
-dateModified: '2017-03-18T21:58:11.817Z'
-datePublished: '2017-03-18T21:58:12.402Z'
+dateModified: '2017-03-18T21:58:36.194Z'
+datePublished: '2017-03-18T21:58:36.341Z'
 title: Specialister i finsnickeri
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-18-specialister-i-finsnickeri.md
 starred: false
 datePublishedOriginal: '2017-03-18T21:58:12.402Z'
-sourcePath: _posts/2017-03-18-specialister-i-finsnickeri.md
 url: specialister-i-finsnickeri/index.html
 _type: Article
 
