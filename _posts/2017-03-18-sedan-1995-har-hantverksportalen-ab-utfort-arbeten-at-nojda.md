@@ -7,8 +7,8 @@ description: >-
   detalj, vilket även kännetecknar vårt nätverk av duktiga hantverkare inom alla
   yrkesgrupper. Givetvis gör vi jobb med ROT-avdrag. Vi hjälper er gärna genom
   hela processen. Bästa hälsningar, Roger Hellström
-dateModified: '2017-03-18T21:47:47.053Z'
-datePublished: '2017-03-18T21:47:47.764Z'
+dateModified: '2017-03-18T21:47:48.294Z'
+datePublished: '2017-03-18T21:47:48.656Z'
 title: Hantverk att njuta av
 author: []
 publisher: {}
