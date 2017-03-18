@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  Ett sekelsskifteshus förtjänar varsam renovering. Med ett duktigt gäng på tre
+  Ett sekelskifteshus förtjänar varsam renovering. Med ett duktigt gäng på tre
   man, gjorde vi en fullständig yttre renovering och lade om originalpanelen.
-dateModified: '2017-03-18T19:01:57.572Z'
-datePublished: '2017-03-18T19:01:58.886Z'
-title: Bygga villa från lösvirke
+dateModified: '2017-03-18T19:04:04.848Z'
+datePublished: '2017-03-18T19:04:05.810Z'
+title: Husrenovering
 author: []
 publisher: {}
 via: {}
@@ -17,13 +17,13 @@ url: bygga-villa-fran-losvirke/index.html
 _type: Article
 
 ---
-# Bygga villa från lösvirke
+# Husrenovering
 
 ## Utomhus
 
-Ett sekelsskifteshus förtjänar varsam renovering. Med ett duktigt gäng på tre man, gjorde vi en fullständig yttre renovering och lade om originalpanelen.
+Ett sekelskifteshus förtjänar varsam renovering. Med ett duktigt gäng på tre man, gjorde vi en fullständig yttre renovering och lade om originalpanelen.
 ![Brädfordring av gammalt sekelskifteshus på Lidingö](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97e3254f-33b4-4730-98a8-0c7da0e22fe4.jpg)
-![Välkommande farstu med snickarglädje. Gjort av en glad snickare!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2417fde3-ed2e-4430-904e-400513b50220.jpg)
+![En välkomnande farstu med snickarglädje. Gjord av en glad snickare!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2417fde3-ed2e-4430-904e-400513b50220.jpg)
 
 ## Inomhus
 ![Platsbyggd trappa och räcke](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84335884-0729-4012-b4b0-9563bbf76990.jpg)
