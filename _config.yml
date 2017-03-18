@@ -50,9 +50,6 @@ purpose:
   - type: contact
     url: 'mailto:roger@hantverksportalen.com'
     label: Kontakta mig
-  - type: contact
-    url: 'tel:0707878279'
-    label: Ring mig
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e85e77d-75a2-42f1-bc2d-5c75a0af1187.png
 author:
