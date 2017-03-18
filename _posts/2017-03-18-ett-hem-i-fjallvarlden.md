@@ -1,12 +1,12 @@
 ---
 inFeed: true
 description: >-
-  Detta är mitt första byggprojekt – en fjällstuga i Ramundberget. Av den
+  Detta var vårt första byggprojekt – en fjällstuga i Ramundberget. Av den
   anledning kommer den alltid vara nära mitt hjärta. Stugan är nu såld, men jag
   bygger gärna en ny till dig! För pengarna köpte jag en båt till min fru. I HMS
   Magda seglar vi varje sommar nu. Jag har fjällstugan att tacka för det.
-dateModified: '2017-03-18T21:14:00.977Z'
-datePublished: '2017-03-18T21:14:01.954Z'
+dateModified: '2017-03-18T21:16:16.191Z'
+datePublished: '2017-03-18T21:16:18.092Z'
 title: Ett hem i fjällvärlden
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 ---
 # Ett hem i fjällvärlden
 
-Detta är mitt första byggprojekt -- en fjällstuga i Ramundberget. Av den anledning kommer den alltid vara nära mitt hjärta. Stugan är nu såld, men jag bygger gärna en ny till dig! För pengarna köpte jag en båt till min fru. I HMS Magda seglar vi varje sommar nu. Jag har fjällstugan att tacka för det.
+Detta var vårt första byggprojekt -- en fjällstuga i Ramundberget. Av den anledning kommer den alltid vara nära mitt hjärta. Stugan är nu såld, men jag bygger gärna en ny till dig! För pengarna köpte jag en båt till min fru. I HMS Magda seglar vi varje sommar nu. Jag har fjällstugan att tacka för det.
 ![Entré med skidbod.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a552fce-d457-4db5-a35a-c7d401b3f8fd.jpg)
 ![Alla rum är lättåtkomliga. En dörr i vinkel ger rymd.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a315fc0-87a0-4e5d-860b-52fc0774dad0.jpg)
 ![Liggande råspontad vägg skapar karaktär.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd35259d-c95e-41eb-aa18-e9442f34fd0d.jpg)
