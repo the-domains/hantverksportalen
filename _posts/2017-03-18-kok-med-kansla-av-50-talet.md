@@ -4,8 +4,8 @@ description: >-
   Beställaren ville bevara detaljerna från ett 50-tals kök i original, men
   förbättra det med en modern arbetslösning. Vi på Hantverksportalen har mycket
   respekt för god kvalitet och det gedigna arbetet av de som har gått före oss.
-dateModified: '2017-03-18T22:24:46.898Z'
-datePublished: '2017-03-18T22:24:47.441Z'
+dateModified: '2017-03-18T22:30:31.576Z'
+datePublished: '2017-03-18T22:30:31.727Z'
 title: Känsla av 50-talet
 author: []
 publisher: {}
