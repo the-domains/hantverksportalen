@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-18T22:24:01.164Z'
-datePublished: '2017-03-18T22:24:01.789Z'
+dateModified: '2017-03-18T22:30:31.576Z'
+datePublished: '2017-03-18T22:30:31.730Z'
 title: “Ett bra pris och ett bra jobb”
 author: []
 publisher: {}
