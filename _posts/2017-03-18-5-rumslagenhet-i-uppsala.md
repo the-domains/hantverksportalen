@@ -8,15 +8,15 @@ description: >-
   kändes tryggt och professionellt. Vi fick problem med golvet i hallen efter
   renoveringen men Hantverksportalen såg till att lösa det utan kostnad. Vi är
   nöjda med resultatet och vi kan rekommendera Hantverksportalen.
-dateModified: '2017-03-18T22:03:04.987Z'
-datePublished: '2017-03-18T22:03:05.570Z'
+dateModified: '2017-03-18T22:04:48.298Z'
+datePublished: '2017-03-18T22:04:48.874Z'
 title: 5-rumslägenhet i Uppsala
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-18-5-rumslagenhet-i-uppsala.md
 starred: false
 datePublishedOriginal: '2017-03-18T22:03:05.570Z'
-sourcePath: _posts/2017-03-18-5-rumslagenhet-i-uppsala.md
 _type: Blurb
 
 ---
