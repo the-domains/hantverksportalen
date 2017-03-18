@@ -4,9 +4,9 @@ description: >-
   Beställaren ville bevara detaljerna från ett 50-tals kök i original, men
   förbättra det med en modern arbetslösning. Vi på Hantverksportalen har mycket
   respekt för god kvalitet och det gedigna arbetet av de som har gått före oss.
-dateModified: '2017-03-18T22:23:18.033Z'
-datePublished: '2017-03-18T22:23:18.300Z'
-title: Kök med känsla av 50-talet
+dateModified: '2017-03-18T22:24:35.852Z'
+datePublished: '2017-03-18T22:24:36.613Z'
+title: Känsla av 50-talet
 author: []
 publisher: {}
 via: {}
@@ -18,7 +18,7 @@ url: kok-med-kansla-av-50-talet/index.html
 _type: Article
 
 ---
-# Kök med känsla av 50-talet
+# Känsla av 50-talet
 
 Beställaren ville bevara detaljerna från ett 50-tals kök i original, men förbättra det med en modern arbetslösning. Vi på Hantverksportalen har mycket respekt för god kvalitet och det gedigna arbetet av de som har gått före oss.
 ![Köket är litet men extremt praktiskt](https://the-grid-user-content.s3-us-west-2.amazonaws.com/820c1b71-548b-417f-bfbb-6ce6326309cf.jpg)
