@@ -1,0 +1,61 @@
+color:
+  brandColors:
+    - '#9D9D9B'
+    - '#201C1D'
+    - '#72716F'
+    - '#484744'
+    - '#EFEAE3'
+  brandStrength: 0.7943522960413247
+  lightness: 0.04935059463605285
+  saturation: 0.9435732113197446
+  rhythmicContrast: 0.6347328689880669
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: hantverksportalen
+layout_spectrum: 0.8061175604816526
+typography_spectrum: 0.22666380065493286
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/573ac09a-6cfb-4008-a2b7-f1b20e9a5670.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/573ac09a-6cfb-4008-a2b7-f1b20e9a5670.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Hantverksportalen
+description: 'Kök, specialsnickerier, renoveringar och byggnationer'
+purpose:
+  - type: contact
+    url: 'mailto:roger@hantverksportalen.com'
+    label: Kontakta mig
+  - type: contact
+    url: 'tel:0707878279'
+    label: Ring mig
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e85e77d-75a2-42f1-bc2d-5c75a0af1187.png
+author:
+  name: Robert England
+  email: robertaengland@gmail.com
+github: true
