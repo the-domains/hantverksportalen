@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ett sekelskifteshus förtjänar varsam renovering. Med ett duktigt gäng på tre
   man, gjorde vi en fullständig yttre renovering och lade om originalpanelen.
-dateModified: '2017-03-18T22:05:18.542Z'
-datePublished: '2017-03-18T22:05:19.033Z'
+dateModified: '2017-03-18T22:36:45.972Z'
+datePublished: '2017-03-18T22:36:46.103Z'
 title: Husrenovering
 author: []
 publisher: {}
