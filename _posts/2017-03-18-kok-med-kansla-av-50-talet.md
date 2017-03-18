@@ -4,9 +4,9 @@ description: >-
   Beställaren ville bevara detaljerna från ett 50-tals kök i original, men
   förbättra det med en modern arbetslösning. Vi på Hantverksportalen har mycket
   respekt för god kvalitet och det gedigna arbetet av de som har gått före oss.
-dateModified: '2017-03-18T22:30:31.576Z'
-datePublished: '2017-03-18T22:30:31.727Z'
-title: Känsla av 50-talet
+dateModified: '2017-03-18T22:36:37.081Z'
+datePublished: '2017-03-18T22:36:37.551Z'
+title: Känsla för 50-talet
 author: []
 publisher: {}
 via: {}
@@ -18,7 +18,7 @@ url: kok-med-kansla-av-50-talet/index.html
 _type: Article
 
 ---
-# Känsla av 50-talet
+# Känsla för 50-talet
 
 Beställaren ville bevara detaljerna från ett 50-tals kök i original, men förbättra det med en modern arbetslösning. Vi på Hantverksportalen har mycket respekt för god kvalitet och det gedigna arbetet av de som har gått före oss.
 ![Köket är litet men extremt praktiskt.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/820c1b71-548b-417f-bfbb-6ce6326309cf.jpg)
@@ -30,5 +30,3 @@ Beställaren ville bevara detaljerna från ett 50-tals kök i original, men för
 ![Dörrhandtaget hittades på en loppis. Med lite smörjning funkade den som ny.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/937ac36e-3318-4d86-88bf-e89c9380c7e6.jpg)
 ![Man ska vara försiktig med el. Ljusknapparna är nytillverkade och kan hittas på nätet hos många leverantörer.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eba1f44-8f02-46e4-8917-613e9f42ddb0.jpg)
 ![Vi tog inspiration från båtlivet för klädstången.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82be9c77-91ba-4ae3-a618-4e0f8ba4115b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe57e666-c054-4454-85da-a8c9259e248e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3605d914-69eb-4e39-9126-276018d9f365.jpg)
