@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-18T22:35:15.460Z'
-datePublished: '2017-03-18T22:35:15.929Z'
+dateModified: '2017-03-18T22:36:45.972Z'
+datePublished: '2017-03-18T22:36:46.096Z'
 title: “I harmoni med vårt hus”
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-18-i-harmoni-med-vart-hus.md
 starred: false
 datePublishedOriginal: '2017-03-18T22:35:15.929Z'
-sourcePath: _posts/2017-03-18-i-harmoni-med-vart-hus.md
 _type: Blurb
 
 ---
