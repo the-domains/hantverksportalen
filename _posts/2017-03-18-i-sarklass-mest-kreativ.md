@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-18T22:19:43.561Z'
-datePublished: '2017-03-18T22:19:44.135Z'
+dateModified: '2017-03-18T22:23:18.033Z'
+datePublished: '2017-03-18T22:23:18.294Z'
 title: “I särklass mest kreativ”
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-18-i-sarklass-mest-kreativ.md
 starred: false
 datePublishedOriginal: '2017-03-18T22:19:44.135Z'
-sourcePath: _posts/2017-03-18-i-sarklass-mest-kreativ.md
 _type: Blurb
 
 ---
