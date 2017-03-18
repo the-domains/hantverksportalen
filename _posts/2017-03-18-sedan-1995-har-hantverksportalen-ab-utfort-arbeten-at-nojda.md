@@ -6,10 +6,9 @@ description: >-
   projekt. Vi jobbar hårt med kommunikation, engagemang och kvalitet in i minsta
   detalj, vilket även kännetecknar vårt nätverk av duktiga hantverkare inom alla
   yrkesgrupper. Givetvis gör vi jobb med ROT-avdrag. Vi hjälper er gärna genom
-  hela processen från idé till drömkök, renovering eller nytt hus. Bästa
-  hälsningar, Roger Hellström
-dateModified: '2017-03-18T21:18:12.285Z'
-datePublished: '2017-03-18T21:18:13.011Z'
+  hela processen. Bästa hälsningar, Roger Hellström
+dateModified: '2017-03-18T21:47:47.053Z'
+datePublished: '2017-03-18T21:47:47.764Z'
 title: Hantverk att njuta av
 author: []
 publisher: {}
@@ -24,9 +23,9 @@ _type: Blurb
 # Hantverk att njuta av
 ![VD Hantverksportalen](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bc44026-640f-4f35-8159-4e5416db194e.jpg)
 
-## Från idé till drömkök, renovering eller nytt hus!
+## Från idé till drömkök, renovering eller nytt hus
 
-Sedan 1995 har Hantverksportalen AB utfört arbeten åt nöjda kunder i Uppsala och Stockholm. Vi samordnar, utför och ger byggledning för både små och stora projekt. Vi jobbar hårt med kommunikation, engagemang och kvalitet in i minsta detalj, vilket även kännetecknar vårt nätverk av duktiga hantverkare inom alla yrkesgrupper. Givetvis gör vi jobb med ROT-avdrag. Vi hjälper er gärna genom hela processen från idé till drömkök, renovering eller nytt hus.  
+Sedan 1995 har Hantverksportalen AB utfört arbeten åt nöjda kunder i Uppsala och Stockholm. Vi samordnar, utför och ger byggledning för både små och stora projekt. Vi jobbar hårt med kommunikation, engagemang och kvalitet in i minsta detalj, vilket även kännetecknar vårt nätverk av duktiga hantverkare inom alla yrkesgrupper. Givetvis gör vi jobb med ROT-avdrag. Vi hjälper er gärna genom hela processen.  
 Bästa hälsningar,  
 Roger Hellström
 
